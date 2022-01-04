@@ -9,10 +9,10 @@ import pickle
 
 stop_words= set(stopwords.words("english"))
 
-ckey="VeSEVRVC6Vt25pUSrLSUzt2nG"
-csecret="CskqeBbwBf5pHc6GmPRFCEDRBlYLaWpBv9BbcsgxiGMdUincjg"
-atoken="909074170683764736-KlfVMKqpGHXtHHU1uVZFMKM7Jx7Pgwh"
-asecret="dpNKsYxzl13kAguwyksdeqNbGNRPJW4xIIp6hCy6dDDBn"
+ckey="VeSEVRV"
+csecret="CskqeBbwBfgxiGMdUincjg"
+atoken="90907417HHU1uVZFMKM7Jx7Pgwh"
+asecret="dpNKsYxzl13p6hCy6dDDBn"
 
 pickle_out=open("/Users/pushkarsingh/Desktop/twitter/pos-yy_adj.pickle","rb")
 pos_adj=pickle.load(pickle_out)
